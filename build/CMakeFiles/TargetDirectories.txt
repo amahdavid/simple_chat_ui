@@ -1,0 +1,3 @@
+/home/chika/CLionProjects/simple_chat_ui/build/CMakeFiles/simple_chat_ui.dir
+/home/chika/CLionProjects/simple_chat_ui/build/CMakeFiles/edit_cache.dir
+/home/chika/CLionProjects/simple_chat_ui/build/CMakeFiles/rebuild_cache.dir

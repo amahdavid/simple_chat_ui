@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/simple_chat_ui.dir/main.c.o -o simple_chat_ui  -lncurses 
